@@ -1,0 +1,14 @@
+C:\Users\A.Sypek\source\repos\AgeNumber\bin\Debug\net7.0\AgeNumber.exe
+C:\Users\A.Sypek\source\repos\AgeNumber\bin\Debug\net7.0\AgeNumber.deps.json
+C:\Users\A.Sypek\source\repos\AgeNumber\bin\Debug\net7.0\AgeNumber.runtimeconfig.json
+C:\Users\A.Sypek\source\repos\AgeNumber\bin\Debug\net7.0\AgeNumber.dll
+C:\Users\A.Sypek\source\repos\AgeNumber\bin\Debug\net7.0\AgeNumber.pdb
+C:\Users\A.Sypek\source\repos\AgeNumber\obj\Debug\net7.0\AgeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A.Sypek\source\repos\AgeNumber\obj\Debug\net7.0\AgeNumber.AssemblyInfoInputs.cache
+C:\Users\A.Sypek\source\repos\AgeNumber\obj\Debug\net7.0\AgeNumber.AssemblyInfo.cs
+C:\Users\A.Sypek\source\repos\AgeNumber\obj\Debug\net7.0\AgeNumber.csproj.CoreCompileInputs.cache
+C:\Users\A.Sypek\source\repos\AgeNumber\obj\Debug\net7.0\AgeNumber.dll
+C:\Users\A.Sypek\source\repos\AgeNumber\obj\Debug\net7.0\refint\AgeNumber.dll
+C:\Users\A.Sypek\source\repos\AgeNumber\obj\Debug\net7.0\AgeNumber.pdb
+C:\Users\A.Sypek\source\repos\AgeNumber\obj\Debug\net7.0\AgeNumber.genruntimeconfig.cache
+C:\Users\A.Sypek\source\repos\AgeNumber\obj\Debug\net7.0\ref\AgeNumber.dll
