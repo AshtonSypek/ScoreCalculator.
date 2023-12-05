@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GBHs/E8HBExIHnKxkwgEFaPcaCUOHHDfh6OvS1+tWMuGpAj1uH+/g7eMSQjDi/mXccigOh7Gpkq3GuVsolCbhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Junior\\Desktop\\TaxCalculator\\TaxCalculator\\TaxCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Junior\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Junior\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Junior\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Junior\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
